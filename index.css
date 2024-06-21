@@ -1,0 +1,26 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+.calculator{
+    height: 500px;
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+.div2{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+#cal{
+    margin-left: 92px;
+}
+#result{
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+}
